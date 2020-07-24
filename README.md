@@ -11,4 +11,14 @@ But, it’s not always clear whether a person’s words are actually announcing 
 
 # Approach:
 
-1. Preprocess data to remove 
+1. Preprocess data:
+  a. Used Weight of Evidence(WOE) encoding to encode keywords and location.
+  b. Used TF-IDF vectorizer to encode tweets.
+  
+2. Models Used - Used an ensemble of the following methods:
+  a. Ridge Classifier
+  b. Support Vector Machine(SVM)
+  c. Decision Tree 
+  d. XGBoost
+  
+  

@@ -1,8 +1,8 @@
 # Disaster-Prediction-from-tweets
 Predict which Tweets are about real disasters and which ones are not
 
-Kaggle Competition: https://www.kaggle.com/c/nlp-getting-started/
-Kaggle Notebook: https://www.kaggle.com/swatisk2702/disaster-prediction-using-tweets
+- Kaggle Competition: https://www.kaggle.com/c/nlp-getting-started/
+- Kaggle Notebook: https://www.kaggle.com/swatisk2702/disaster-prediction-using-tweets
 
 # Competition Description:
 
